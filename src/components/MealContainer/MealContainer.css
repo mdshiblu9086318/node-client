@@ -1,0 +1,16 @@
+.mealContent{
+    border-radius: 15px;
+    margin: 20px 10px;
+    height: 400px;
+    text-align: center;
+    box-shadow: 0 10px 40px 0 rgba(0,0,0,.5);
+}
+.mealContent img{
+    height: 130px;
+}
+.mealContent h3{
+    margin: 30px auto;
+}
+.mealContent h1,Button{
+    margin: 30px auto;
+}

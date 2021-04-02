@@ -1,0 +1,44 @@
+#manage-product-content{
+    display: none;
+}
+button{
+    border: none;
+    outline: none;
+    background: transparent;
+}
+h5{
+    margin: 20px 63px;
+}
+.meal-name{
+    margin: 20px 80px;
+}
+.meal-wight{
+    margin: 20px 75px;
+}
+.meal-price{
+    margin: 20px 60px;
+}
+.remove-btn{
+    margin: 0 60px;
+}
+@media screen and (max-width:600px){
+    h5{
+        margin: 10px 19px;
+    }
+    .meal-name{
+        margin: 10px 0 10px 19px;
+    }
+    .meal-wight{
+        margin: 10px 0 10px 80px;
+    }
+    .meal-price{
+        margin: 10px 0 10px 70px;
+    }
+    .remove-btn{
+        margin: -20px 0 10px 15px;
+    }
+    .side-navigation{
+        height: 300px;
+        width: 455px;
+    }
+}

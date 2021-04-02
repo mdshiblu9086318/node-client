@@ -1,0 +1,15 @@
+img{
+    height: 40px;
+    margin: 22px 0 0 30px;
+}
+button{
+    border: none;
+    outline: none;
+    background: transparent;
+}
+.google-pop-up{
+    border: 1px solid lightgray;
+    width: 300px;
+    border-radius: 50px;
+    margin:  100px auto;
+}

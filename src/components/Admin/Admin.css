@@ -1,0 +1,18 @@
+.side-navigation{
+    background-color: darkslategray;
+    width: 300px;
+    height: 831px;
+}
+.side-navigation button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    margin-left: 10px;
+}
+.side-navigation li{
+    list-style: none;
+}
+.side-navigation img{
+    margin-top: 22px;
+}

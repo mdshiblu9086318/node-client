@@ -1,0 +1,32 @@
+.nav-bar{
+    display: flex;
+    text-align: center;
+}
+.nav-bar h1{
+    font-size: 36px;
+    font-weight: bold;
+    margin: 36px 0 0 0;
+}
+.nav-bar div{
+    margin-right: 100px;
+}
+.nav-bar li{
+    list-style: none;
+    margin: 50px 40px 10px 40px
+}
+#login-btn{
+    margin-top: -55px;
+    text-align: center;
+}
+@media screen and (max-width:600px){
+    .nav-bar{
+        flex-direction: column;
+    }
+    #login-btn{
+        margin-right: 97px;
+    }
+    .nav-bar h1{
+        font-size: 40px;
+        margin-left: 42px;
+    }
+}
